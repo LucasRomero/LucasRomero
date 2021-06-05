@@ -22,5 +22,5 @@ I am graduated as a programmer technician, currently, I started to fall in love 
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/LucasRomero?label=Follow&style=social)](https://github.com/LucasRomero)
-[![Linkedin](https://img.shields.io/badge/-LucasRomero%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/romerolucasdaniel/)
+[![Linkedin](https://img.shields.io/badge/-LucasRomero-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/romerolucasdaniel/)
 [![Mail](https://img.shields.io/badge/-romerolucasdaniel@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:romerolucasdaniel@outlook.com)
