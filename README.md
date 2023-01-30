@@ -10,6 +10,7 @@ I am graduated as a programmer technician, I started to fall in love with techno
 ## What I know :computer:
 - **Competitive Programming**
 	- C# ❤️
+	- NestJS
 	- Some Java
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
