@@ -1,22 +1,24 @@
-# Welcome to my github! 👋
+# Welcome to my GitHub! 👋
 
 <div align="center">
 	<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </div>
 
 ## About me :mortar_board:
-I am graduated as a programmer technician, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I graduated as a programmer technician, I started to fall in love with technology 😍 This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Competitive Programming**
-	- C# ❤️
+	- C# .Net Core and Framework 4.6+ ❤️
 	- NestJS
 	- Some Java
 - **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- Angular
-	- NG-Zorro
+	- Astro.js :white_check_mark:
+	- Angular +2 :white_check_mark:
+ 	- Tailwind :white_check_mark:
+	- Bootstrap :white_check_mark:
+	- NG-Zorro UI :white_check_mark:
+ 	- .....
 
 ## What I want to do next :thinking:
 - Unlock the secret to the universe :rofl:
@@ -25,3 +27,4 @@ I am graduated as a programmer technician, I started to fall in love with techno
 [![Github](https://img.shields.io/github/followers/LucasRomero?label=Follow&style=social)](https://github.com/LucasRomero)
 [![Linkedin](https://img.shields.io/badge/-LucasRomero-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/romerolucasdaniel/)
 [![Mail](https://img.shields.io/badge/-romerolucasdaniel@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:romerolucasdaniel@outlook.com)
+
