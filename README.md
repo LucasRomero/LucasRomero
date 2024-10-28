@@ -9,16 +9,24 @@ I graduated as a programmer technician, I started to fall in love with technolog
 
 ## What I know :computer:
 - **Competitive Programming**
-	- C# .Net Core and Framework 4.6+ ❤️
-	- NestJS
+	- C# .Net Core and Framework ❤️
+ 	- Learning Azure
+	- SQL
+  	- NestJS
 	- Some Java
 - **Frontend Development**
+	- Angular +2 :white_check_mark: ❤️
 	- Astro.js :white_check_mark:
-	- Angular +2 :white_check_mark:
  	- Tailwind :white_check_mark:
 	- Bootstrap :white_check_mark:
 	- NG-Zorro UI :white_check_mark:
  	- .....
+
+- **Others**
+	- GIT
+  	- GitHub
+  	- Jira
+  	- Team Foundation Server (TFS)
 
 ## What I want to do next :thinking:
 - Unlock the secret to the universe :rofl:
