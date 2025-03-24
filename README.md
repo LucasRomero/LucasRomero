@@ -16,6 +16,7 @@ I graduated as a programmer technician, I started to fall in love with technolog
 	- Some Java
 - **Frontend Development**
 	- Angular +2 :white_check_mark: ❤️
+ 	- Blazor :white_check_mark:
 	- Astro.js :white_check_mark:
  	- Tailwind :white_check_mark:
 	- Bootstrap :white_check_mark:
